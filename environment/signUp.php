@@ -123,7 +123,7 @@
                             <div style = 'top:50px' class = 'submit'>
                                 <h3>Sign Up Successful</h3>
                             </div>
-                            <p style = 'text-align:center'>Welcome to Bitter!</p>
+                            <p style = 'text-align:center'>Welcome to Soar!</p>
                             <div style = 'width:100%; text-align:center;'><a style = 'text-algin:center' href = 'login.php'>Login</a></div>
                         </div>
                     </div>";
