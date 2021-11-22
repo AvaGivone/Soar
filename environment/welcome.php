@@ -80,9 +80,9 @@
             <div class = form>
                         <div class = contents>
                             <div style = 'top:50px' class = 'submit'>
-                                <h3>Welcome to Bitter</h3>
+                                <h3>Welcome to Soar</h3>
                             </div>
-                            <p style = 'text-align:center'>The first social media platform where you hate things</p>
+                            <p style = 'text-align:center'>Let your words take flight</p>
                             <div style = 'width:100%; text-align:center;'><a style = 'text-algin:center' href = 'signUp.php'>Sign Up</a></div>
                             <div style = 'width:100%; text-align:center;'><a style = 'text-algin:center' href = 'login.php'>Login</a></div>
                             
